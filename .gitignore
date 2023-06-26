@@ -1,0 +1,10 @@
+/node_modules
+/config/settings_schema.json
+/snippets/vite-tag.liquid
+.env
+.pnpm
+
+## IDE
+.idea
+.vscode
+
